@@ -21,6 +21,7 @@ I can provide the list of softwares I used to build my own firmware if needed he
 2. Grab an empty SD card and drop the firmware.bin on it
 3. Put the SD card in the printer and boot it. The printer will be stuck on the end of the splash screen, don't do anything and wait until the menu appears
 4. When the menu appears, go back to About and check your firmware version again, you should see `jojos38 edited Kobra Vx.x.x`
+5. Connect your printer to your PC and run the following commands in the same order: `M710 A1 I4 S5` `M500` (This makes the motherboard's fan more silent)
  
  # FAQ
  ### Can I revert to the old version if I don't like it?
