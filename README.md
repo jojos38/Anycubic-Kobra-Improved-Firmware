@@ -14,10 +14,9 @@ For now it's still very basic I only enabled Linear Advance, but maybe I will ch
 - Slightly faster printing when using default printer settings
 - Slightly faster booting speed
 - Reduced noise (motherboard fan)
-- Linear Advance enabled
 
 ### Known issues
-- None
+- Linear Advance does not work, will try to figure this out if I can
 
 ### Other things to know
 I can provide the list of softwares I used to build my own firmware if needed here is my Discord: jojos38#1337
