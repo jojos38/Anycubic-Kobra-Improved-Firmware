@@ -8,6 +8,12 @@ I am not responsible for any damage or malfunction caused to your printer becaus
 For now it's still very basic I only enabled Linear Advance, but maybe I will change other things in the future
 
 ### Features
+- Replace booting music with a single bip
+- Faster auto leveling
+- Faster homing
+- Slightly faster printing when using default printer settings
+- Slightly faster booting speed
+- Reduced noise (motherboard fan)
 - Linear Advance enabled
 
 ### Known issues
