@@ -5,7 +5,7 @@ An improved firmware for the Anycubic Kobra 3d printer (ONLY the Anycubic Kobra)
 I am not responsible for any damage or malfunction caused to your printer because of those files. Any modding made to your printer is made at your own risk, this includes any damage that could happen in real life.
 
 ### Description
-For now it's still very basic I only enabled Linear Advance, but maybe I will change other things in the future
+This firmware tries to improve the Kobra in many way without compromising quality or lifespan. I will try to add more and more features over time, I'm still learning Marlin. One of my goal is to migrate to latest Marlin. 
 
 ### Features
 - Replace booting music with a single bip
@@ -33,7 +33,7 @@ I can provide the list of softwares I used to build my own firmware if needed he
  Yes you can, just install the official Anycubic Firmware back
  
  ### Are there any risk in doing that?
- In the current state there should be no risk but keep in mind that this firmware wasn't extremely tested yet, once again, do this at your own risk.
+ The risk shouldn't be very high but keep in mind that this firmware wasn't extremely tested yet, once again, do this at your own risk.
 
  ### Can I modify your files to make my own version?
  Yes you can, but please credit me if you publish it (unless you changed everything of course)
