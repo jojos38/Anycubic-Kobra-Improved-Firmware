@@ -196,10 +196,9 @@ namespace Anycubic {
   };
 
   const uint16_t Anycubic_PowerOn[] = {
-    1000,
-    n_F7,l_T8, n_P,l_T8, n_C7,l_T8, n_P,l_T8, n_D7,l_T8, n_P,l_T8,
-    n_E7,l_T8, n_P,l_T8, n_D7,l_T4, n_P,l_T4, n_G7,l_T4, n_P,l_T4,
-    n_A7,l_T2, n_P,l_T1,
+    500,
+    n_P, l_T1, n_P, l_T1, n_P, l_T1, n_P, l_T1, n_P, l_T1, n_P, l_T8,
+		n_F5, l_T8,
     n_END
   };
 
