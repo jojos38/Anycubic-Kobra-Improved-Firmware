@@ -28,6 +28,9 @@ I can provide the list of softwares I used to build my own firmware if needed he
 4. When the menu appears, go back to About and check your firmware version again, you should see `jojos38 edited Kobra Vx.x.x`
 5. Connect your printer to your PC and run the following commands in the same order: `M710 A1 I4 S5` `M500` (This makes the motherboard's fan more silent)
  
+ # How to compile
+ Full tutorial here: https://www.reddit.com/r/anycubic/comments/y2waxu/tutorial_how_to_build_anycubic_marlin_source_code/
+ 
  # FAQ
  ### Can I revert to the old version if I don't like it?
  Yes you can, just install the official Anycubic Firmware back
