@@ -16,7 +16,7 @@ This firmware tries to improve the Kobra in many way without compromising qualit
 - Reduced noise (motherboard fan)
 
 ### Known issues
-- Linear Advance does not work, will try to figure this out if I can
+- Linear Advance causes layer shift, might be unfixable
 
 ### Other things to know
 I can provide the list of softwares I used to build my own firmware if needed here is my Discord: jojos38#1337
