@@ -1,5 +1,5 @@
 # Anycubic Kobra Improved Firmware
-## **This project is now discontinued as I changed the motherboard for my Anycubic Kobra. However, this firmware still implements all the features I wanted to implement and was likely close to the final version anyway. Hope you will enjoy it**
+### **This project is now discontinued as I changed the motherboard for my Anycubic Kobra. However, this firmware still implements all the features I wanted to implement and was likely close to the final version anyway. Hope you will enjoy it. I will still review pull requests and bugs but I won't be able to test anything from my side**
 
 An improved firmware for the Anycubic Kobra 3d printer (ONLY the Anycubic Kobra)
 
