@@ -20,9 +20,6 @@ This firmware tries to improve the Kobra in many way without compromising qualit
 ### Known issues
 - Linear Advance causes layer shift, might be unfixable
 
-### Other things to know
-I can provide the list of softwares I used to build my own firmware if needed here is my Discord: jojos38#1337
-
 # How to install
 1. Go to your printer -> Settings -> About -> Firmware Version -> check your current version
 2. Grab an empty SD card and drop the firmware.bin on it
