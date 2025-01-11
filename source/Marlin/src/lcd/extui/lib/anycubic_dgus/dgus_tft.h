@@ -34,7 +34,7 @@
 #include "../../ui_api.h"
 
 #define DEVICE_NAME             "Anycubic Kobra"
-#define FIRMWARE_VER            "jojos38 v1.2 Kobra V2.8.2"
+#define FIRMWARE_VER            "jojos38 v1.3 Kobra V2.8.2"
 #define BUILD_VOLUME            "220*220*250 (mm)"
 #define TECH_SUPPORT            "https://www.anycubic.com"
 
