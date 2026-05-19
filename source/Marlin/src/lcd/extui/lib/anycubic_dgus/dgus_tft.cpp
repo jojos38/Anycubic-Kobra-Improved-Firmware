@@ -427,8 +427,8 @@ namespace Anycubic {
       } break;
 
       case AC_timer_paused: {
-//        printer_state = AC_printer_paused;
-//        pause_state   = AC_paused_idle;
+        printer_state = AC_printer_pausing;
+        pause_state   = AC_paused_idle;
 //        SendtoTFTLN(AC_msg_paused);
       }
       break;
